@@ -7,3 +7,6 @@ my_hair = "Brown"
 print(f"Let's talk about {my_name}")
 print(f"She's {my_height} inches tall, and {my_age} years old.")
 print(f"She's got {my_eyes} eyes and {my_hair} hair.")
+
+total = my_age + my_height 
+print(f"If I add {my_age} and {my_height} I get {total}")
